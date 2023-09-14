@@ -4,7 +4,8 @@ public class Main {
         int x; //declaration
          x = 10; //assign
         int z = 100; // initilazation
-        System.out.print("my name num is "+x);
+        System.out.println("my name num is "+x);
+        System.out.print(z);
 
 
     }
