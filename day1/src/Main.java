@@ -46,13 +46,13 @@ public class Main {
         //operands = values,variables,numbers
         //operators = +=-*%/
 
-        int frnds = 10;
-        double enem = 100;
-        frnds = frnds +1; //frnds++;
-        frnds++;
-        enem = (int)enem/3;
-        System.out.println(enem);
-        System.out.println(frnds);
+//        int frnds = 10;
+//        double enem = 100;
+//        frnds = frnds +1; //frnds++;
+//        frnds++;
+//        enem = (int)enem/3;
+//        System.out.println(enem);
+//        System.out.println(frnds);
 
     }
 }
