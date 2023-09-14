@@ -5,7 +5,9 @@ public class Main {
          x = 10; //assign
         int z = 100; // initilazation
         System.out.println("my name num is "+x);
-        System.out.print(z);
+        System.out.println(z);
+        String name = "Josef";
+        System.out.println("Hello "+name);
 
 
     }
